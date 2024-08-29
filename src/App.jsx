@@ -1,7 +1,12 @@
 import "./App.css";
+import GenQuote from "./components/GenQuote";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <GenQuote />
+    </>
+  );
 }
 
 export default App;
